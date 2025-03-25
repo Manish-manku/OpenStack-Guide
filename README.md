@@ -24,7 +24,6 @@ This step:
 - Sets up OpenStack services.
 - Configures networking.
 - Enables an internal bridge for virtual machines.
-- 
 ![image alt](https://private-user-images.githubusercontent.com/119393298/418464180-55d49d17-1945-492f-89aa-a79d1aaf29a6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI5MjQ2NjQsIm5iZiI6MTc0MjkyNDM2NCwicGF0aCI6Ii8xMTkzOTMyOTgvNDE4NDY0MTgwLTU1ZDQ5ZDE3LTE5NDUtNDkyZi04OWFhLWE3OWQxYWFmMjlhNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyNVQxNzM5MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04N2FlOTEzM2FjN2NjZGViYTMxZGFiNzcxNzk5MGIxNWY3MGY0OGRjOTViZWMzYWNiZWM0ZTI3N2UxMTRlZWQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iECcHeNUQwV-Fd8-2zdYk2dMoJtMz5yYODWfWP3-Z88)
 
 ### 3. Access the OpenStack Dashboard
@@ -51,7 +50,7 @@ http://<your-ip>:80
 
 #### Log in using the default credentials:
 - **Username:** admin
-- **Password:** (Use the one retrieved in the previous step)
+- **Password:** (Use the one retrieved in the previous step)  
 Now you have OpenStack running and accessible via the web dashboard!
 ![image alt](https://private-user-images.githubusercontent.com/119393298/418465057-18e701dd-5f18-4b59-9538-ce371884bb6f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI5MjQ2NjQsIm5iZiI6MTc0MjkyNDM2NCwicGF0aCI6Ii8xMTkzOTMyOTgvNDE4NDY1MDU3LTE4ZTcwMWRkLTVmMTgtNGI1OS05NTM4LWNlMzcxODg0YmI2Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyNVQxNzM5MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iM2IzZjlhMTgxZGI4YzExODA2NTQ4Y2E4OWU1ZTc2ZTMyMTNlZDdmMjE5NjQ0NmU3ZTk3NWVmYTRjZmJlYWZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oL5Zr4qtZ9UrL9t_etxTz9Oq7dBzU26aqGzsoOIpmu0)
 
